@@ -12,9 +12,9 @@ A simple chatbot made utilizing the Facebook Blenderbot model. The chatbot will 
 - Requires libraries listed on requirements.txt
 - Requires pip to install
 
-# Usage
+## Usage
 - Run all the code cells in the .ipynb file; the final code cell will generate a query bar where the user can generate queries.
 
-# Considerations
+## Considerations
 - The chatbot cannot handle complex queries or queries that do not align with the questions it responds with.
 - The response time may be delayed, and a response may only be generated once the user generates another query.
